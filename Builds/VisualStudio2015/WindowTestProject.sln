@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{9FF9C3F5-C5F2-D2F2-D6AA-28BD3D903549}") = "WindowTestProject", "WindowTestProject.vcxproj", "{7416F6A2-E6D5-2718-F816-4C684008576E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7416F6A2-E6D5-2718-F816-4C684008576E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7416F6A2-E6D5-2718-F816-4C684008576E}.Debug|Win32.Build.0 = Debug|Win32
+		{7416F6A2-E6D5-2718-F816-4C684008576E}.Release|Win32.ActiveCfg = Release|Win32
+		{7416F6A2-E6D5-2718-F816-4C684008576E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

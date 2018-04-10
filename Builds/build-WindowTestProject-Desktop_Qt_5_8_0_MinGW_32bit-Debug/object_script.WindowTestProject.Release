@@ -1,0 +1,17 @@
+INPUT(
+./build\release\intermediate\MainComponent.o
+./build\release\intermediate\Main.o
+./build\release\intermediate\juce_audio_basics.o
+./build\release\intermediate\juce_audio_devices.o
+./build\release\intermediate\juce_audio_formats.o
+./build\release\intermediate\juce_audio_processors.o
+./build\release\intermediate\juce_core.o
+./build\release\intermediate\juce_cryptography.o
+./build\release\intermediate\juce_data_structures.o
+./build\release\intermediate\juce_events.o
+./build\release\intermediate\juce_graphics.o
+./build\release\intermediate\juce_gui_basics.o
+./build\release\intermediate\juce_gui_extra.o
+./build\release\intermediate\juce_opengl.o
+./build\release\intermediate\juce_video.o
+);
