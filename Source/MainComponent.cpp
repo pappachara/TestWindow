@@ -43,7 +43,6 @@ void MainContentComponent::resized()
     testButton.setBounds (200, 70, 100, 60);
     textLabel.setBounds(20, 10, 100, 100);
 }
-//void MainContentComponent::repaint ();
 
 void MainContentComponent::buttonClicked (Button* button)
     {
@@ -51,7 +50,7 @@ void MainContentComponent::buttonClicked (Button* button)
         {
                 const String message = "or not";
                 textLabel.setText(message, dontSendNotification); 
-                //textLabel.repaint(20, 10, 100, 100);
+                
 
     repaint();
        }
