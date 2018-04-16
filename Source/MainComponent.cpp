@@ -52,7 +52,7 @@ void MainContentComponent::buttonClicked (Button* button)
                 textLabel.setText(message, dontSendNotification); 
                 
 
-    repaint();
+    //repaint();
        }
     }
 
